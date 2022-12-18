@@ -1,0 +1,74 @@
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.AssemblyReference.cache
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\obj\Debug\Laba_4_1_OOP.Form1.resources
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.Properties.Resources.resources
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.GenerateResource.cache
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe.config
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.pdb
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.exe
+C:\Projects\C# Projects\Laba_6_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.pdb
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.AssemblyReference.cache
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_4_1_OOP.Form1.resources
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.Properties.Resources.resources
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.GenerateResource.cache
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.exe
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.pdb
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe.config
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe
+C:\Projects\C# Projects\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.pdb
+E:\C# Projects\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe.config
+E:\C# Projects\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe
+E:\C# Projects\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.pdb
+E:\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.AssemblyReference.cache
+E:\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_4_1_OOP.Form1.resources
+E:\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.Properties.Resources.resources
+E:\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.GenerateResource.cache
+E:\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.CoreCompileInputs.cache
+E:\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.exe
+E:\C# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.pdb
+D:\Projects\С# Projects\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe.config
+D:\Projects\С# Projects\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe
+D:\Projects\С# Projects\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.pdb
+D:\Projects\С# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.AssemblyReference.cache
+D:\Projects\С# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_4_1_OOP.Form1.resources
+D:\Projects\С# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.Properties.Resources.resources
+D:\Projects\С# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.GenerateResource.cache
+D:\Projects\С# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.CoreCompileInputs.cache
+D:\Projects\С# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.exe
+D:\Projects\С# Projects\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.pdb
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe.config
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.pdb
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.AssemblyReference.cache
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_4_1_OOP.Form1.resources
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.Properties.Resources.resources
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.GenerateResource.cache
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.exe
+C:\Projects\C# Projects\С# Projects_update\Laba_7_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.pdb
+D:\Projects\С# Projects\Laba_8_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe.config
+D:\Projects\С# Projects\Laba_8_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe
+D:\Projects\С# Projects\Laba_8_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.pdb
+D:\Projects\С# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.AssemblyReference.cache
+D:\Projects\С# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_4_1_OOP.Form1.resources
+D:\Projects\С# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.Properties.Resources.resources
+D:\Projects\С# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.GenerateResource.cache
+D:\Projects\С# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.CoreCompileInputs.cache
+D:\Projects\С# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.exe
+D:\Projects\С# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.pdb
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe.config
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.exe
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\bin\Debug\Laba_6_OOP.pdb
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.AssemblyReference.cache
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_4_1_OOP.Form1.resources
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.Properties.Resources.resources
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.GenerateResource.cache
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.exe
+C:\Projects\C# Projects\Laba_8_OOP\Laba_6_OOP\obj\Debug\Laba_6_OOP.pdb
